@@ -1,14 +1,20 @@
 # #PutUsOnTheMap - 11.458 Final Project 2020 for GeoChicas
-This is the final project for MIT course 11.458 - Crowd Sourced City in Spring 2020. We worked with the GeoChicas, a feminist mapping collective, to design a twitter campaign about women and space in Barcelona and Buenos Aires. Below is our final result, as well as an explanation of the course 
+This is the final project for MIT course 11.458 - Crowd Sourced City in Spring 2020. We worked with the GeoChicas, a feminist mapping collective, to design a twitter campaign about women and space in Barcelona and Buenos Aires. Below is our final result, as well as an explanation of the course, partner, and files in this repository. All of the visualizations are available in Spanish too.
 
 ## Barcelona Twitter Campaign - #putusonthemap
+![Barcelona Street Length English](Final_Vis/Barcelona_English/1_barcelona_street_length_English.png)
+![Barcelona Women in Government English](Final_Vis/Barcelona_English/2_governance_barcelona_english.png)
 
+## Buenos Aires Twitter Campaign - #putusonthemap
+![Buenos Aires Street Length English](Final_Vis/Buenos_Aires_English/1_Buenos_street_length_English.png)
+![Buenos Aires Women Care Work English](Final_Vis/Buenos_Aires_English/2_care_Buenos_Aires_English.png)
 
 ## 11.458 - Crowd Sourced City
 This course is offered at MIT through the Urban Planning Department. It was taught be [Catherine D'Ignazio](https://dusp.mit.edu/faculty/catherine-dignazio) and TA'd by Wonyoung So. For Spring 2020, the course focused on street names. We read and discussed questions such as:
 * who is commemorated in the landscape?
 * who is missing from the landscape?
 * how do memorials and naming conventions reinforce or challenge hegemonic norms?
+
 The course culminated in a final project for a partner organization that relates to technology and street names.
 
 ## GeoChicas
@@ -38,13 +44,13 @@ This folder includes
 
 ### Vis 2 - Lived Experiences
 This folder includes
-- zip file of the Adobe Illustrator (ai) files for the women's contribution to governance in Barcelona visualization
-- zip file of the AI files for the women's domestic and care work in Buenos Aires visualization
+- folder of Adobe Illustrator (ai) files for the women's contribution to governance in Barcelona visualization and final PNGs
+- folder of AI files for the women's domestic and care work in Buenos Aires visualization and final PNGs
 
 ### Vis 3 - Disappearing Map Gif
 This folder includes
-- AI files for the Barcelona map gif in Spanish and English
-- AI files for the Buenos Aires map gif in Spanish and English
+- AI files for the Barcelona map gifEnglish
+- AI files for the Buenos Aires map gif
 
 
 
