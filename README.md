@@ -3,7 +3,7 @@ This is the final project for MIT course 11.458 - Crowd Sourced City in Spring 2
 
 ## Barcelona Twitter Campaign - #putusonthemap
 ![Barcelona Street Length English](Final_Vis/Barcelona_English/1_barcelona_street_length_English.png)
-![Barcelona Women in Government English](Final_Vis/Barcelona_English/2_governance_barcelona_english.png)
+![Barcelona Women in Government English](Final_Vis/Barcelona_English/2_governance_Barcelona_english.png)
 
 ## Buenos Aires Twitter Campaign - #putusonthemap
 ![Buenos Aires Street Length English](Final_Vis/Buenos_Aires_English/1_Buenos_street_length_English.png)
@@ -52,5 +52,10 @@ This folder includes
 - AI files for the Barcelona map gifEnglish
 - AI files for the Buenos Aires map gif
 
+## Contact Info
+Our team was made of:
+- Braxton Bridgers 
+- Kenyatta McLean
+- Meital Hoffman meital@mit.edu
 
 
